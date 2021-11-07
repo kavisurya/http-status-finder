@@ -87,7 +87,7 @@ lap = 0
 
 
 def pusVals(req,x1):
-    print(req, "\t",x1)
+    # print(req, "\t",x1)
     if str(req)[0:1] == "2":
         output_200.write(str(req)+"\t"+x1)
             # print("200 OK " + k[i])
