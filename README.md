@@ -1,10 +1,10 @@
 # http-status-finder
 
 Hello Everyone!!
- This is kavisurya,
+ ***This is kavisurya,***
  In this tool you can give n number of inputs and parallelly you will get a output by separetely.
  Here you can give time delay to every each requests. So you will escape from some firewall securities. 
- This tool will give 98% of accuracy. But this tool like slow or based on your bandwidth.
+ **This tool will give 98% of accuracy. But this tool like slow or based on your bandwidth.**
  Thank you
  follow me on https://instagram.com/kavisuryaofficial
 
