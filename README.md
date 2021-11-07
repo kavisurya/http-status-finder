@@ -1,5 +1,6 @@
 # http-status-finder
 
+
 Hello Everyone!!
  ***This is kavisurya,***
  In this tool you can give n number of inputs and parallelly you will get a output by separetely.
@@ -16,6 +17,7 @@ pip install -r requirements.txt
 python3 httpstatusless.py -h
 ```
 
+## NOTE : THIS TOOL ONLY FOR LINUX DISTRIBUTIONS
 
 ### Output
 
