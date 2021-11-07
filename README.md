@@ -72,7 +72,7 @@ python3 httpstatusless.py -f /home/rao/urls.txt -d 5 -p 'projectname'
 ```
 
 
-# If your URL list greter than 300, Use below commands !!
+# If your URL list greater than 300, Use below commands !!
 ### Usage
 
 ```
