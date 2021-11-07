@@ -59,6 +59,10 @@ python3 httpstatusless.py -f /home/rao/urls.txt -d 0 -p 'projectname'
 
 ```
 
+
+## NOTE : During the process, if you're get something error, Don't stop the process it automatically resolve. Otherwise, You check manually. 
+
+
 ### Time based checking
 
 ```
@@ -105,7 +109,7 @@ In this Mode for a complete large number of checking processes. If your URL's 30
 Ex. During 3'rd file process, you're come out of this tool, you can resume with the 3rd file using the -r parameter.  
 
 ```
-python3 run.py -f /home/rao/file.txt -d 0 -p 'Test_project' -r 3 [3 means starts from 3rd file.]
+python3 run.py -f /home/rao/file.txt -d 0 -p 'Test_project' -r 3 
 
 ```
 
@@ -121,3 +125,20 @@ python3 run.py -f /home/rao/file.txt -d 0 -p 'Test_project' -r 0
 -r -> Resume your files.
 ```
 
+### Time based checking
+
+```
+python3 httpstatusless.py -f /home/rao/urls.txt -d 5 -p 'projectname' -r 0
+
+```
+
+### Resume Your process
+
+```
+python3 httpstatusless.py -f /home/rao/urls.txt -d 0 -p 'projectname' -r 3
+
+```
+[3 means starts from 3rd file.]
+
+
+### THANK YOU
