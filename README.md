@@ -131,14 +131,14 @@ python3 run.py -f /home/rao/file.txt -d 0 -p 'Test_project' -r 0
 ### Time based checking
 
 ```
-python3 httpstatusless.py -f /home/rao/urls.txt -d 5 -p 'projectname' -r 0
+python3 run.py -f /home/rao/urls.txt -d 5 -p 'projectname' -r 0
 
 ```
 
 ### Resume Your process
 
 ```
-python3 httpstatusless.py -f /home/rao/urls.txt -d 0 -p 'projectname' -r 3
+python3 run.py -f /home/rao/urls.txt -d 0 -p 'projectname' -r 3
 
 ```
 [3 means starts from 3rd file.]
